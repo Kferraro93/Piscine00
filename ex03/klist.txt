@@ -1,0 +1,5 @@
+Credentials cache: API:A54635D5-9743-4019-91FB-A874FB03175D
+        Principal: kferraro@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 13:50:06 2020  Nov 23 23:50:06 2020  krbtgt/42ROMA.IT@42ROMA.IT
